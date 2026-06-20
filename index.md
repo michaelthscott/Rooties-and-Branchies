@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 Vast phantom housing estate inhabited by shadows, transparent to the
 eye, veiled in grey half-light, half-darkness. In the midst of this
 suburbia, a forest as of old, enchanted, labyrinthine. At the end of a
