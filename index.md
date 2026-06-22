@@ -43,7 +43,7 @@ A large Branchy with a small Rooty.
 
 A large Rooty with a small Branchy.
 
-![Trees](trees.png)
+![Trees](images/trees.png)
 
 A Branchy lives in a roofless hut in which it walks around and around
 until finally settling for a time in a chair or in some cases, sofa. The
@@ -96,7 +96,7 @@ exerted their economic hold over the Branchies. Who, as a Rooty was
 often heard to remark had carelessly exposed their botanomorphic parts
 to the vagaries of the environment.
 
-![Roots](roots.png)
+![Roots](images/roots.png)
 
 The general appearance of a Branchy denied its name. The dense
 population of the forest made for so much violent and incapacitating
@@ -168,4 +168,4 @@ elsewhere.
 It is from within this humus that new Rooties appear to spontaneously
 generate.
 
-![Seed](seed.png)
+![Seed](images/seed.png)
